@@ -1,3 +1,3 @@
 Hi there!
 
-okulbida.com
+[Check out my blog](https://okulbida.com)
